@@ -2,6 +2,7 @@
 
 void just_printing(){
 	printf("Will this work, I wonder?\n");
+	printf("yea maaan");
 }
 
 
