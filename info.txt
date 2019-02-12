@@ -1,2 +1,4 @@
 gcc -o app main.c henrik.c ...  #to compile it
 ./app                           #to run it
+
+
