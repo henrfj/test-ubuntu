@@ -15,12 +15,16 @@
 
 int main() {
 	printf("Hello world\n");
-	printf("... and mars\n");
-	printf("... and jupiter?\n");
+	
+	structTester();
+
+	/*
+	stringTester();
 	just_printing();
-	//just commenting
 	int arr[]={1,2,3,4,5};
 	length(arr);
+	*/
+
 	return 0;
 }
 
