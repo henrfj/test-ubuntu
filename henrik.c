@@ -1,9 +1,7 @@
 #include "henrik.h"
 
 void structTester(){
-
-
-	
+	printf("this does nothing\n");
 }
 
 

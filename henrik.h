@@ -7,7 +7,7 @@ void just_printing();
 void length(int *arr);
 
 void stringTester();
-#endif // HENRIK_H_
+
 
 //malloc and stuff
 
@@ -20,3 +20,5 @@ struct LL {
     int * first;
     int * last;
 }
+
+#endif //HENRIK_H_
